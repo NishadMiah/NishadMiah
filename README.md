@@ -3,7 +3,7 @@
 ![I am Mobile App Developer](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/338045707_748737276963474_6133349597854450739_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEP0E4a50McyPQ4CpLZe6Zxd4e_IJoojfp3h78gmiiN-rQuSf8ucREgZIGonwjiggLcxR9HMFq0Z9D3Rzghhizb&_nc_ohc=q68QZnVBsBgQ7kNvgEtMncz&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AYAwkgo2OOSb2yPIzIQL940NP7_Cr8FgQl2rXNloxiY5Ng&oe=66C9953B)
 
 
-Skills: Flutter / HTML / CSS
+Skills: Flutter / React Native / HTML / CSS
 
 - 🔭 I’m currently working on Cellsweb IT Solutions Ltd 
 - 🌱 I’m currently learning Flutter 
