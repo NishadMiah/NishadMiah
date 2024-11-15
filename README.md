@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Md Nishad and I'm a Mobile Application Developer from Cellsweb IT Solutions Ltd</h2>
+<h2 align="left">Hi 👋! My name is Md Nishad and I'm a Mobile App Developer from Cellsweb IT Solutions Ltd</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://firebasestorage.googleapis.com/v0/b/primemeet-b206c.appspot.com/o/profile_images%2FNy6ZC0yzsjgUnVyoNEZQznw49DH2?alt=media&token=f5f056d3-c47e-40b9-be64-d65252e1a692"  />
 
 ###
 
