@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://firebasestorage.googleapis.com/v0/b/primemeet-b206c.appspot.com/o/profile_images%2FNy6ZC0yzsjgUnVyoNEZQznw49DH2?alt=media&token=15add111-86c1-41de-a096-5c46d6522f9c"  />
+<img align="right" height="50" src="https://firebasestorage.googleapis.com/v0/b/primemeet-b206c.appspot.com/o/profile_images%2FNy6ZC0yzsjgUnVyoNEZQznw49DH2?alt=media&token=15add111-86c1-41de-a096-5c46d6522f9c"  />
 
 ###
 
