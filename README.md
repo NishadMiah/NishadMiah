@@ -1,5 +1,12 @@
 <h2 align="left">Hi 👋! My name is Md Nishad and I'm a Mobile App Developer from Cellsweb IT Solutions Ltd</h2>
 
+![](https://komarev.com/ghpvc/?username=NishadMiah&color=blueviolet)
+ 
+<p align="left">
+<a href="https://wakatime.com/@294524e8-d5b9-4f7a-847e-a08b37065282">
+<img src="https://wakatime.com/badge/user/294524e8-d5b9-4f7a-847e-a08b37065282.svg" alt="wakatime" />
+</a>
+</p>
 ###
 
 <div align="center">
