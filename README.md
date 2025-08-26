@@ -1,4 +1,9 @@
 <h2 align="left">Hi 👋! My name is Md Nishad and I'm a Mobile App Developer from Cellsweb IT Solutions Ltd</h2>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC0000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a></p>
+</div>
+ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Md+Nishad+Miah+)](https://git.io/typing-svg)
+ 
 
 ![](https://komarev.com/ghpvc/?username=NishadMiah&color=blueviolet)
  
