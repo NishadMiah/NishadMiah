@@ -54,10 +54,49 @@
   </a>
 </div>
 
-###
+
+<!-- GitHub Contribution Details -->
+<div align="center">
+  <h3>⚡ GitHub Contribution Details</h3>
+   <hr/>
+  <p align="center">
+    <a href="https://github.com/NishadMiah">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishadMiah&theme=radical" 
+        alt="NishadMiah's GitHub Contribution" 
+        width="75%" 
+      />
+    </a>
+  </p>
+ 
+  <p align="center"  >
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NishadMiah&theme=radical" 
+      alt="Stats" 
+      width="40%" 
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NishadMiah&theme=radical" 
+      alt="Commits" 
+      width="40%" 
+    />
+  </p>
+
+<hr/>
+ 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NishadMiah/NishadMiah/output/snake.svg" alt="Snake animation" />
+<!-- Snake Contributions-->
+
+<div align="center">
+ <h3>🐍 My Contributions 🐍</h3>
+     <hr/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/golamshakib/golamshakib/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<!-- <img src="https://raw.githubusercontent.com/NishadMiah/NishadMiah/output/snake.svg" alt="Snake animation" />  -->
 
 ### 
