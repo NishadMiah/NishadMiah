@@ -85,7 +85,7 @@
 <hr/>
  
 
-<br clear="both">
+ 
 
 <!-- Snake Contributions-->
 
