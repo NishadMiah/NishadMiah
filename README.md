@@ -24,9 +24,7 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Md Nishad Miah Coding | Flutter & Mobile Apps" width="340"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NishadMiah&color=red" alt="Profile views for Md Nishad Miah" />
-</p>
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NishadMiah&color=red" alt="Profile views" />
   <a href="https://github.com/NishadMiah"><img src="https://img.shields.io/github/followers/NishadMiah?label=Follow%20Me&style=social"></a>
 </p>
 
@@ -34,39 +32,16 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 ## 🌟 About Me
 
-**Mobile Application Developer | Flutter & React Native Specialist | Bangladesh**
+💡 **Flutter & Mobile App Developer from Bangladesh**  
+⚡ 2+ Years | 30+ Projects | Startup & Freelance Experience  
+📍 Based in Rangpur | Available for Remote Work
 
-- 📍 Mithapukur, Rangpur, Bangladesh
-- 💼 Flutter Developer @ SM Technology | ex-Cellsweb IT Solutions Ltd
-- 🎓 Diploma in Computer Science, Rangpur Polytechnic Institute
-- 🌐 Building powerful mobile apps for startups, clinics, governments, and global clients
-- 🛠️ Skills: Flutter, Dart, React Native, Firebase, REST API, Android, Python, CSS3, Project Management
+- 💼 Flutter Developer @ SM Technology | ex-Cellsweb IT Solutions Ltd  
+- 🎓 Diploma in Computer Science, Rangpur Polytechnic Institute  
+- 🌐 Built apps for startups, clinics, governments, and international clients  
+- 🛠️ Tech: Flutter, Dart, React Native, Firebase, REST API, Android, Python  
 
-> _Creativity, speed, and quality. I build seamless mobile experiences that delight users and scale businesses. My apps are fast, reliable, and beautiful._
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://img.shields.io/badge/REST%20API-ff0000?style=for-the-badge&logo=api" height="40" alt="REST API" />
-</p>
-
----
-
-## 🥇 Achievements & Certifications
-
-- **Certified Flutter Developer**
-- **Android App Development Specialist**
-- <sub>_"Md Nishad delivered our app on time and exceeded expectations. Highly recommended!" — Client, TherapyGo_</sub>
+> _Creativity, speed, and quality. I build seamless mobile experiences that delight users and scale businesses._
 
 ---
 
@@ -83,11 +58,29 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 ---
 
-## 🏆 GitHub Trophy
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishadMiah&theme=radical&margin-w=15&margin-h=15&column=7" alt="Md Nishad Miah GitHub Trophy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
+
+**Keywords:** GetX · Provider · Riverpod · Firebase Auth · Push Notifications · Payment Gateways · REST API · Maps · State Management · Project Management
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ✅ Certified Flutter Developer  
+- ✅ Android App Development Specialist  
+- 🏅 Delivered **30+ cross-platform apps** with **95% on-time delivery**  
+- 💬 *"Md Nishad delivered our app on time and exceeded expectations. Highly recommended!" — Client, TherapyGo*
 
 ---
 
@@ -101,26 +94,41 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 ---
 
-## 🛠️ Currently Building
+## ⚡ GitHub Profile Details
 
-- Next-gen appointment management apps in Flutter
-- Exploring AI integration in mobile platforms
-- Always open to new challenges!
-
----
-
-## 👀 Looking For
-
-- Remote or onsite Flutter developer roles
-- Freelance projects
-- Collaboration on open source
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishadMiah&theme=radical" width="75%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NishadMiah&theme=radical" width="40%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NishadMiah&theme=radical" width="40%" alt="Productive Time" />
+</p>
 
 ---
 
-## 💻 Education
 
-- 🎓 Diploma in Computer Science, Rangpur Polytechnic Institute (2020 - Present)
-- 🎓 Science, Buzruk Shontoshpur Adorsh High School (2019-2020)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishadMiah&show_icons=true&theme=dracula&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NishadMiah&layout=compact&langs_count=5&theme=dracula" height="160" alt="Top Languages" />
+</p>
+
+---
+
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NishadMiah&theme=radical&margin-w=15&margin-h=15&column=7" alt="Md Nishad Miah GitHub Trophy" />
+</p>
+
+---
+
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/golamshakib/golamshakib/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -145,33 +153,6 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <a href="mailto:moonjur8@gmail.com?subject=Let's%20collaborate!">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail" height="30" alt="Email" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishadMiah&show_icons=true&theme=dracula&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NishadMiah&layout=compact&langs_count=5&theme=dracula" height="160" alt="Top Languages" />
-</p>
-
----
-
-## ⚡ GitHub Profile Details
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishadMiah&theme=radical" width="75%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NishadMiah&theme=radical" width="40%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NishadMiah&theme=radical" width="40%" alt="Productive Time" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/golamshakib/golamshakib/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
