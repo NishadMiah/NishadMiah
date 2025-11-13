@@ -22,19 +22,20 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
     height="120"
   />
 </a> -->
-<p align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/NishadMiah"/>
-</a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter%20Certified-Expert-0FA36B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/2%2B%20Years-Experience-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/30%2B%20Projects-Completed-success?style=for-the-badge" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Md Nishad Miah Coding | Flutter & Mobile Apps" width="340"/>
+</p> -->
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/NishadMiah"/>
+</a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NishadMiah&color=red" alt="Profile views" />
