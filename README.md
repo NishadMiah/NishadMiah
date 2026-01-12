@@ -15,13 +15,13 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <em>Turning ideas into pixel-perfect experiences. Dream. Code. Launch.</em>
 </h3>
 
-<!-- <a href="https://github.com/devxb/gitanimals">
+ <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/NishadMiah?pet-id=655367298048705301"
     width="600"
     height="120"
   />
-</a> -->
+</a> 
 
 
 <p align="center">
@@ -32,11 +32,11 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Md Nishad Miah Coding | Flutter & Mobile Apps" width="340"/>
 </p> -->
-<p align="center">
+<!--<p align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/NishadMiah"/>
 </a>
-</p>
+</p>-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NishadMiah&color=red" alt="Profile views" />
   <a href="https://github.com/NishadMiah"><img src="https://img.shields.io/github/followers/NishadMiah?label=Follow%20Me&style=social"></a>
@@ -47,7 +47,7 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 ## 🌟 About Me
 
 💡 **Flutter & Mobile App Developer from Bangladesh**  
-⚡ 2+ Years | 30+ Projects | Startup & Freelance Experience  
+⚡ 2+ Years | 40+ Projects | Startup & Freelance Experience  
 📍 Based in Rangpur | Available for Remote Work
 
 - 💼 Flutter Developer @ SM Technology | ex-Cellsweb IT Solutions Ltd  
@@ -118,41 +118,11 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishadMiah&show_icons=true&theme=dracula&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NishadMiah&layout=compact&langs_count=5&theme=dracula" height="160" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=NishadMiah&theme=radical" width="90%" alt="GitHub Streak" />
-</p>
-
----
-
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishadMiah&theme=radical&margin-w=15&margin-h=15&column=7" alt="Md Nishad Miah GitHub Trophy" />
-</p>
-
----
-
-## 🗺️ GitHub Contribution Heatmap
+<!--## 🗺️ GitHub Contribution Heatmap
 
 [![NishadMiah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NishadMiah&theme=react-dark)](https://github.com/NishadMiah)
 
----
-
- 
-
-## ⏳ Weekly Development Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NishadMiah&theme=radical&layout=compact" alt="WakaTime Stats" />
-</p>
- 
----
+--->
 
 ## 🌐 Let's Connect
 
