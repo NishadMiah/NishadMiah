@@ -127,7 +127,7 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-nishad-islam-12b567245/" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/nishadmiah" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/MM04743505" target="_blank" rel="noopener">
@@ -136,7 +136,7 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <a href="https://www.facebook.com/devMdNishadMiah" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/ashik505855?igsh=YzljYTk1ODg3Zg==" target="_blank" rel="noopener">
+  <a href="https://www.instagram.com/dev_nishadislam?igsh=dnk0aWJpNG04MTZj" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram" />
   </a>
   <a href="https://github.com/NishadMiah" target="_blank" rel="noopener">
