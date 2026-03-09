@@ -63,12 +63,12 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 | Project | Description | Impact |
 | ------- | ----------- | ------ |
-| [velozaje](https://github.com/Mdsumon743/velozaje) | 🚗 Cross-platform vehicle app (Flutter & Firebase) | 2000+ downloads, 4.8★ rating |
+| [Elouisa+](https://apps.apple.com/us/app/elouisa-app/id6755730965) | All-in-one streaming platform with movies, TV shows, and live TV. | 2000+ downloads, 4.8★ rating |
 | [TherapyGo](https://play.google.com/store/apps/details?id=com.bayridgespeechtherapy.therapygo) | 🩺 Appointment app for doctors/patients | Used by 20+ clinics |
-| [PrimeMeet](https://drive.google.com/file/d/1AETddBvMC3UMD4zMdXXEPgu0V4vjENGl/view) | 🏛️ Scheduling app for citizens & VIPs | In use by local government |
+| [My Thai Halal](https://apps.apple.com/us/app/my-thai-halal/id6743726721) | Restaurant management system with real-time cart and order tracking. | In use by local government |
 | [Email-Marketing](https://github.com/NishadMiah/Email-Marketing) | 📧 Automated email marketing solution | 1000+ campaigns sent |
 | [webview_stripe_payment](https://github.com/NishadMiah/webview_stripe_payment) | 💳 Stripe payment integration | 5+ business integrations |
-| [service_token](https://github.com/shohanur55/service_token) | 🔐 Token-based authentication service | Secures 10+ apps |
+| [Malooz](https://play.google.com/store/apps/details?id=apps.malooz.com) | 🔐 Ultimate streaming experience with 24/7 live TV, movies, series & events. | Secures 10+ apps |
 
 ---
 
